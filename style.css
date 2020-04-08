@@ -1,0 +1,25 @@
+body {
+    background: url('https://source.unsplash.com/random/2880x1800');
+    color: green;
+    font-size: 3em;
+}
+
+a {
+    text-decoration: none;
+}
+ul li {
+    list-style-type: none;
+}
+h1 {
+    text-align: center;
+}
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+.nav-links li {
+    padding: 10px;
+}
